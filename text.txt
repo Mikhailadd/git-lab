@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 New text 
+=======
+Hello world 
+>>>>>>> new_branch
