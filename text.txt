@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-New text 
-=======
-Hello world 
->>>>>>> new_branch
+12345 
